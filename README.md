@@ -21,8 +21,8 @@
 
 
 **`天启安全系统下载地址：`**
-      OVF版 https://www.123pan.com/s/DfdZVv-2jhNH.html提取码:apoc
-      VMware版https://www.123pan.com/s/DfdZVv-sjhNH.html提取码:apoc
+      OVF版    https://www.123pan.com/s/DfdZVv-CjhNH.html
+      VMware版 https://www.123pan.com/s/DfdZVv-WjhNH.html
 
 **`系统简介`**
 
