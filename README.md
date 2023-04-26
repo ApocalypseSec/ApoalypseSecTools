@@ -24,10 +24,10 @@
 	    OVF版    https://www.123pan.com/s/DfdZVv-CjhNH.html
 	    VMware版 https://www.123pan.com/s/DfdZVv-WjhNH.html
 
-**`所有镜像包含AV环境以及纯洁系统环境`**
+**`所有镜像包含AV环境以及纯净系统环境`**
 
 	    https://www.123pan.com/s/DfdZVv-NjhNH.html
-	    纯洁系统（PureServer）：
+	    纯净系统（PureServer）：
 	       CentOS764Bit root/Jinitaimei.1
 	       Server_2008
 	       Server_2012
